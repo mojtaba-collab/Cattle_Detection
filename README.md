@@ -29,15 +29,6 @@ The model converged effectively over 30 epochs, reaching a peak **mAP@0.5 of 95.
 | **Recall (R)** | **89.4%** |
 | **mAP@0.50:0.95** | **57.7%** |
 
-### Training Metrics & Loss Curves
-Training metrics, loss functions, precision-recall dynamics, and mAP progression across epochs:
-
-![Training Results](results/results.png)
-
-### Model Predictions vs. Ground Truth
-Sample predictions from the validation split evaluating detection confidence and spatial localization:
-
-![Validation Predictions](results/val_batch0_pred.jpg)
 
 ---
 
