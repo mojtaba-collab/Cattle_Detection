@@ -1,5 +1,3 @@
-# Cattle Detection: Aerial Monitoring Using YOLOv5
-
 
 # Cattle Detection: Aerial Monitoring Using YOLOv5
 
