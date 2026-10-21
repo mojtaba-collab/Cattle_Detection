@@ -20,7 +20,9 @@ This repository details the training, validation, and inference workflows for a 
 
 ## 📊 Performance & Evaluation
 
-The model converged effectively over 30 epochs, reaching a peak **mAP@0.5 of 95.1%** and high precision across validation folds:
+### Model Performance
+
+The model converged effectively over 30 epochs, reaching a peak **mAP@0.5 of 95.1%** on the validation set:
 
 | Metric | Score |
 | :--- | :--- |
